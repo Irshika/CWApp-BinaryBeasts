@@ -1,0 +1,19 @@
+{
+  "name": "cw-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MalakaDeSilva/CWApp-BinaryBeasts.git"
+  },
+  "author": "Binary-Beasts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts/issues"
+  },
+  "homepage": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts#readme"
+}
