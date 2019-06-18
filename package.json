@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts/issues"
   },
-  "homepage": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts#readme"
+  "homepage": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
 }
