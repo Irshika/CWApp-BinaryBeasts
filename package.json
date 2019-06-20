@@ -1,26 +1,25 @@
 {
-  "name": "cw-app",
+  "name": "af-17",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MalakaDeSilva/CWApp-BinaryBeasts.git"
-  },
-  "author": "Binary-Beasts",
+  "author": "Malaka De. Silva",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts/issues"
-  },
-  "homepage": "https://github.com/MalakaDeSilva/CWApp-BinaryBeasts#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.0"
+    "mongoose": "^5.5.12",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-router": "^5.0.0",
+    "react-router-dom": "^5.0.0"
   },
   "devDependencies": {
+    "@types/express": "^4.16.1",
     "parcel-bundler": "^1.12.3"
   }
 }
